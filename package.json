@@ -1,6 +1,8 @@
 {
-    "name": "nodered-heroku",
-    "version": "0.0.7",
+    "name": "urbalurba-nodered",
+    "version": "0.0.1",
+    "description": "nodered for managing jobs that handle data flow and tranformation",
+    
     "dependencies": {
         "feedparser": "2.2.10",
         "nano": "9.0.3",
